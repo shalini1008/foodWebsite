@@ -19,17 +19,17 @@ Foodlify is a responsive web application designed to display a restaurant's menu
 
 ## Installation
 
--1. Clone the repository:
+-**1. Clone the repository:**
    git clone https://github.com/shalini1008/foodlify.git
--2.Navigate to the project directory:
+-**2.Navigate to the project directory:**
    cd foodlify
--3.Open index.html in your preferred web browser.
+-**3.Open index.html in your preferred web browser.**
 
 ## Usage
--1.Navigate through the menu to view categorized items with their descriptions and prices.
--2.Scroll through customer reviews.
--3. Click the scroll-up button to quickly return to the top of the page.
-=4.Observe the active link highlighting the current section.
+**-1.Navigate through the menu to view categorized items with their descriptions and prices.**
+**-2.Scroll through customer reviews.**
+**-3. Click the scroll-up button to quickly return to the top of the page.**
+**-4.Observe the active link highlighting the current section.**
 
 ## Demo Image
 ![image](https://github.com/shalini1008/foodWebsite/assets/122449558/9aa06e02-683a-477a-b3d4-d3ceaea9ed63)
